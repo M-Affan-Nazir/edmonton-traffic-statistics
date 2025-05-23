@@ -5,7 +5,6 @@ def drop_all_null_rows(df):
     df_new = df.dropna(how="all")
     if len(df_new) != len(df):
         return df_new
-        print("OK")
     return df
 
 def drop_null_rows(df, columns):
