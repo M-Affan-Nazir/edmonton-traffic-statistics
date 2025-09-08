@@ -1,4 +1,4 @@
-# Edmonton Urban Structure
+# Edmonton Traffic Collision Analysis with Statistical Inference & Machine Learning
 
 This repository contains datasets and reproducible notebooks for exploring relationships between Edmonton traffic collisions, traffic volume, and weather. It also includes lightweight Python utilities for basic data cleaning. All sections below describe  files that are present in this repository.
 
@@ -7,7 +7,7 @@ This repository contains datasets and reproducible notebooks for exploring relat
 ## Repository Structure
 
 ```text
-Edmonton Urban Structure/
+Edmonton Traffic Collision Analysis with Statistical Inference & Machine Learning/
 ├─ data/
 │  ├─ raw/
 │  │  └─ Annual_Collision_Report.csv
