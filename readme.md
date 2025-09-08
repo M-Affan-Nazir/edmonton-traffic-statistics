@@ -12,7 +12,7 @@ Edmonton Traffic Collision Analysis with Statistical Inference & Machine Learnin
 │  ├─ raw/
 │  │  └─ Annual_Collision_Report.csv
 │  │  └─ Average_Annual_Weekday_Traffic_Volumes.csv
-│  │  └─ Weather_Data_Hourly.csv
+│  │  └─ readme.md
 │  └─ processed/
 │     └─ edmonton_weather.csv
 │     └─ merged_features.csv
@@ -43,7 +43,6 @@ Raw inputs and cleaned/derived datasets used by the notebooks.
 #### `data/raw/` (source CSVs)
 - `Annual_Collision_Report.csv`
 - `Average_Annual_Weekday_Traffic_Volumes.csv`
-- `Weather_Data_Hourly.csv`
 
 #### `data/processed/` (prepared tables)
 - `edmonton_weather.csv`

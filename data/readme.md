@@ -13,7 +13,8 @@ data/
 ├─ raw/
 │  └─ Annual_Collision_Report.csv
 │  └─ Average_Annual_Weekday_Traffic_Volumes.csv
-│  └─ Weather_Data_Hourly.csv
+│  └─ Weather_Data_Hourly.csv (removed due to being a large file)
+|  └─ readme.md
 ```
 
 ## Contents
@@ -21,7 +22,7 @@ data/
 ### `raw/` (unaltered source files)
 - `Annual_Collision_Report.csv`
 - `Average_Annual_Weekday_Traffic_Volumes.csv`
-- `Weather_Data_Hourly.csv`
+- `readme.md`
 
 ### `processed/` (derived datasets)
 - `edmonton_weather.csv`
@@ -31,3 +32,4 @@ data/
 
 ## Notes
 - All files are in CSV format.
+- readme.md contains links to download the datasets from Edmonton Open Data Portal.
