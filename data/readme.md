@@ -32,4 +32,4 @@ data/
 
 ## Notes
 - All files are in CSV format.
-- readme.md contains links to download the datasets from Edmonton Open Data Portal..
+- readme.md contains links to download the datasets from Edmonton Open Data Portal.
