@@ -1,7 +1,7 @@
 # Edmonton Traffic Collision Analysis with Statistical Inference & Machine Learning
 
 <p align="center">
-  <img src="assets/banner.png" alt="Edmonton Traffic Banner" width="100%"/>
+  <img src="assets/banner_2.png" alt="Edmonton Traffic Banner" width="100%"/>
 </p>
 
 This repository contains datasets and reproducible notebooks for exploring relationships between Edmonton traffic collisions, traffic volume, and weather. It also includes lightweight Python utilities for basic data cleaning. All sections below describe  files that are present in this repository.
